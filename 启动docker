@@ -1,0 +1,9 @@
+
+sudo docker ps -a
+
+sudo docker start postgresql-redmine
+
+sudo docker start redmine
+
+引用：
+https://github.com/sameersbn/docker-redmine
